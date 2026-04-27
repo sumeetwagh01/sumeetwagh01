@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sumeet Wagh
 
-### `AI & IT Engineer` · `ML Developer` · `B.Tech NMIMS`
+### `AI & IT Engineer` · `ML Developer` · `B.Tech IT`
 
 <br/>
 
@@ -10,7 +10,7 @@
 &nbsp;
 ![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-YES-22c55e?style=for-the-badge)
 &nbsp;
-![Location](https://img.shields.io/badge/Pune%2C%20MH-India-f59e0b?style=for-the-badge)
+![Location](https://img.shields.io/badge/Nashik%2C%20MH-India-f59e0b?style=for-the-badge)
 
 <br/>
 
