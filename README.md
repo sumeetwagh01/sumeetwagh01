@@ -26,26 +26,33 @@
 
 ## 🧑‍💻 About Me
 
-```python
-sumeet = {
-    "name"       : "Sumeet Wagh",
-    "dob"        : "27 June 2005",
-    "education"  : "B.Tech AI & IT — MPSTME, NMIMS University (2024–2027)",
-    "prev"       : "Diploma — K.K. Wagh Polytechnic (2021–2023) | MSBTE: 75.65%",
-    "focus"      : ["Machine Learning", "Computer Vision", "Full-Stack Dev", "Cloud"],
-    "internship" : "Software Dev Intern @ Emerging Technologies (2023)",
-    "leadership" : "President, AIML Dept @ K.K. Wagh College (2022–2023)",
-    "status"     : "Actively seeking internships & early-career roles 🟢"
-}
+<table>
+<tr>
+<td valign="top" width="60%">
+
+```yaml
+👤 Name       : Sumeet Wagh
+🎓 Education  : B.Tech AI & IT — MPSTME, NMIMS (2024–2027)
+📍 Location   : Pune, Maharashtra, India
+🔍 Focus      : ML | Computer Vision | Full-Stack
+📧 Email      : YOUR_EMAIL
+🟢 Status     : Actively seeking opportunities
 ```
 
-- 🧠 Building **ML/DL models** for real-world impact (healthcare, agriculture)
-- ☁️ AWS Solutions Architecture experience via **Forage simulation**
-- 📱 Developed **NM TKT** — a campus movie ticket booking app with Java + Firebase
-- 🏆 **DSA Certified** from Apna College (Delta Batch)
-- 🎯 Led as **Department President** & **Innoventa 2025 Volunteer Coordinator**
+- 🧠 Building **ML/DL models** for real-world impact
+- ☁️ AWS Solutions Architecture via **Forage simulation**
+- 📱 Built **NM TKT** — campus ticket booking app (Java + Firebase)
+- 🏆 **DSA Certified** — Apna College Delta Batch
+- 🎯 **Department President** & Innoventa 2025 Coordinator
 
----
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
