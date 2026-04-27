@@ -48,7 +48,7 @@
 </td>
 <td valign="top" width="40%" align="center">
 
-<img src= 'https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif/'>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 </td>
 </tr>
