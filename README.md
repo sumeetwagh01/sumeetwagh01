@@ -6,7 +6,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=sumeetwagh01&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
 ![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-YES-22c55e?style=for-the-badge)
 &nbsp;
